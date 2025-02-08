@@ -20,21 +20,6 @@ Amount: Transaction amount.
 
 Class: Target variable (0 for non-fraudulent, 1 for fraudulent).
 
-Project Structure
-
-fraud_detection_project/
-├── data/
-│   └── creditcard.csv
-├── notebooks/
-│   └── fraud_detection_analysis.ipynb
-├── scripts/
-│   └── fraud_detection.sql
-├── results/
-│   └── plots/
-├── README.md
-├── requirements.txt
-└── LICENSE
-
 Technologies Used
 
 PostgreSQL: For database management and querying.
